@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **cybersecurity.**
 
-- 👨‍💻 All of my projects are available at [sureshsubedi.info.np](sureshsubedi.info.np)
+- 👨‍💻 All of my projects are available at [sureshsubedi.info.np](www.sureshsubedi.info.np)
 
 - 📫 How to reach me **sureshsubedi3994@gmail.com**
 
