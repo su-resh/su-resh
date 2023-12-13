@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suresh</h1>
 <h3 align="center">A developer from Nepal</h3>
 
-- 🌱 I’m currently learning **cybersecurity.**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [sureshsubedi.info.np](www.sureshsubedi.info.np)
 
