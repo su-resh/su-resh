@@ -1,25 +1,30 @@
-<h1 align="center">Hi 👋, I'm Suresh Subedi</h1>
-<h3 align="center">A passionate app developer from Nepal.</h3>
+<div style="position: relative; width: 100%; height: 30px; overflow: hidden; margin-top: 20px;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(45deg, #ff0000, #00ff00, #0000ff, #ff0000); background-size: 400% 400%; animation: gradient 5s linear infinite;"></div>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=su-resh&label=Profile%20views&color=0e75b6&style=flat" alt="su-resh" /> </p>
+# Hi 👋, I'm Suresh Subedi
 
-- 🌱 I’m currently learning **Flutter, dart.**
+## A passionate app developer from Nepal.
 
-- My personal Website: [www.sureshsubedi.info.np](www.sureshsubedi.info.np)
+![Profile views](https://komarev.com/ghpvc/?username=su-resh&label=Profile%20views&color=0e75b6&style=flat)
 
-- 📫 How to reach me **sureshsubedi3994@gmail.com**
+### 🌱 I’m currently learning **Flutter, Dart.**
+### 🌐 My personal Website: [www.sureshsubedi.info.np](http://www.sureshsubedi.info.np)
+### 📫 How to reach me: [sureshsubedi3994@gmail.com](mailto:sureshsubedi3994@gmail.com)
+### ⚡ Fun fact: I am a last-moment savior.
 
-- ⚡ Fun fact **I am a last moment saviour.**
+## Connect with me:
+[![Twitter](https://img.shields.io/badge/Twitter-%40s_ur_es-blue)](https://twitter.com/s_ur_es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ersureshsubedi-blue)](https://linkedin.com/in/ersureshsubedi)
+[![Facebook](https://img.shields.io/badge/Facebook-suresh.subedi.24-blue)](https://fb.com/suresh.subedi.24)
+[![Instagram](https://img.shields.io/badge/Instagram-s_ur_es-blue)](https://instagram.com/s_ur_es)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/s_ur_es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_ur_es" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ersureshsubedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ersureshsubedi" height="30" width="40" /></a>
-<a href="https://fb.com/suresh.subedi.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suresh.subedi.24" height="30" width="40" /></a>
-<a href="https://instagram.com/s_ur_es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_ur_es" height="30" width="40" /></a>
-</p>
+## Languages and Tools:
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=su-resh&show_icons=true&locale=en" alt="su-resh" /></p>
+## Projects:
+- [Project 1: Guess the flag](https://play.google.com/store/apps/details?id=com.thulotechnology.guesstheworldflag) - This is a flutter based game where a user can play quiz and learn. My contributions in this app were testing the features and I even contributed in frontend of this app.
