@@ -1,5 +1,10 @@
-[![Make-your-README.png](https://i.postimg.cc/N0GVdj8G/Make-your-README.png)](https://www.sureshsubedi.info.np)
-# Hello, I'm Suresh Subedi 👋
+<p align="center">
+  <a href="https://www.sureshsubedi.info.np" target="_blank">
+    <img src="https://i.postimg.cc/N0GVdj8G/Make-your-README.png" alt="Suresh Subedi" />
+  </a>
+</p>
+
+<h1 align="center">Hello, I'm Suresh Subedi 👋</h1>
 
 ## Passionate App Developer | Nepal 🇳🇵
 
