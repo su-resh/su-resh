@@ -1,7 +1,3 @@
-<div style="position: relative; width: 100%; height: 30px; overflow: hidden; margin-top: 20px;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(45deg, #ff0000, #00ff00, #0000ff, #ff0000); background-size: 400% 400%; animation: gradient 5s linear infinite;"></div>
-</div>
-
 # Hi 👋, I'm Suresh Subedi
 
 ## A passionate app developer from Nepal.
@@ -12,6 +8,20 @@
 ### 🌐 My personal Website: [www.sureshsubedi.info.np](http://www.sureshsubedi.info.np)
 ### 📫 How to reach me: [sureshsubedi3994@gmail.com](mailto:sureshsubedi3994@gmail.com)
 ### ⚡ Fun fact: I am a last-moment savior.
+
+## Professional Experience:
+- **Flutter Development Intern** @[Thulo Technology]
+  - Collaborating with a talented team to build responsive and user-friendly mobile applications.
+  - Developing robust and scalable solutions using Flutter framework.
+  - Continuously learning and implementing best practices in app development.
+
+## Open to Collaboration:
+I'm open to collaboration, whether it's contributing to open source projects or exploring new ideas. Reach out if you're interested in working together!
+
+## Goal:
+My aim is to create impactful applications that not only solve problems but also elevate user experiences. I'm passionate about leveraging technology to make a positive difference.
+
+## Looking forward to connecting with like-minded individuals, learning, and crafting exceptional digital experiences together! 🚀
 
 ## Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-%40s_ur_es-blue)](https://twitter.com/s_ur_es)
@@ -28,5 +38,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+
 ## Projects:
 - [Project 1: Guess the flag](https://play.google.com/store/apps/details?id=com.thulotechnology.guesstheworldflag) - This is a flutter based game where a user can play quiz and learn. My contributions in this app were testing the features and I even contributed in frontend of this app.
+- [Project 2: Color Blindness Test](https://play.google.com/store/apps/details?id=com.thulotechnology.colorblind&hl=en&gl=US) - Color Blind Test is the go-to app for checking if you're color blind. It's like a colorful game where you uncover hidden numbers in different shades. Let’s see how many you get correct.
