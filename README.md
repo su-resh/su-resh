@@ -1,8 +1,11 @@
+
 # Hello, I'm Suresh Subedi 👋
 
 ## Passionate App Developer | Nepal 🇳🇵
 
 ![Profile views](https://komarev.com/ghpvc/?username=su-resh&label=Profile%20views&color=0e75b6&style=flat)
+
+<img align= "right" alt = "coding" width="400" src="https://i.pinimg.com/originals/45/67/a8/4567a837b545d22b9dcde81ccd98b70e.gif">
 
 ### 🌱 Currently Mastering: **Flutter, Dart**
 ### 🌐 Explore my Work: [www.sureshsubedi.info.np](http://www.sureshsubedi.info.np)
