@@ -55,6 +55,6 @@ Committed to expanding my skill set and staying abreast of the latest trends in 
 - [Project 2: Color Blindness Test](https://play.google.com/store/apps/details?id=com.thulotechnology.colorblind&hl=en&gl=US)
   - Color Blind Test is the go-to app for checking if you're color blind. It's like a colorful game where you uncover hidden numbers in different shades. Let’s see how many you get correct.
 ### Web Development:
-- [Project 1: Doctors Quiz](bit.ly/doctorsquiz)
+- [Project 1: Doctors Quiz](https://su-resh.github.io/pakistan-quiz/)
   - A premium quiz app where users need to sigin to get the access. Targeted for teaching MBBS students. **FrontEnd: HTML5, CSS**, JS. **Backend: Firebase**. Responsive UI along with the score showing button.
 ## Looking forward to connecting with like-minded individuals, learning, and crafting exceptional digital experiences together! 🚀
