@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">Hello, I'm Suresh Subedi 👋</h1>
+<!-- <h1 align="center">Hello, I'm Suresh Subedi 👋</h1> -->
 
-## Passionate App Developer | Nepal 🇳🇵
+<!-- ## Passionate App Developer | Nepal 🇳🇵 -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=su-resh&label=Profile%20views&color=0e75b6&style=flat)
 
