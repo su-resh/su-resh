@@ -51,18 +51,20 @@ Committed to expanding my skill set and staying abreast of the latest trends in 
 # Projects:
 ## Flutter App:
 
-- [Project 1: Weather App ](https://github.com/su-resh/Know-weather)
+- [Project 1: Weather App](https://github.com/su-resh/Know-weather)
   - A weather app, that uses API to fetch the data from the Open weather.
 - [Project 2: Guess the Flag](https://play.google.com/store/apps/details?id=com.thulotechnology.guesstheworldflag)
   - A Flutter-based quiz game that enhances user learning. I contributed to testing and frontend development.
 - [Project 3: Color Blindness Test](https://play.google.com/store/apps/details?id=com.thulotechnology.colorblind&hl=en&gl=US)
   - Color Blind Test is the go-to app for checking if you're color blind. It's like a colorful game where you uncover hidden numbers in different shades. Let’s see how many you get correct.
 - [Project 4: Tic Tac Toe](https://github.com/su-resh/tic-tac-toe)
-  - General tic tac toe game. Where users can play play game.
+  - General tic tac toe game. Where users can play game.
 - [Project 5: Message Now](https://github.com/su-resh/msg_app)
   - Minimal but the best realtime chat application with firebase.
 - [Project 6: Army Training](https://github.com/su-resh/army_training)
-  - A army traning app made during the internship at **Thulo Technology**.
+  - A army training app made during the internship at **Thulo Technology**.
+- [Project 7: Computer Basic Guide](https://play.google.com/store/apps/details?id=computerbasicguide.com)
+  - A comprehensive guide to basic computer skills, perfect for beginners and those looking to brush up on their knowledge.
 
 ## Web Development:
 - [Project 1: Doctors Quiz](https://su-resh.github.io/pakistan-quiz/)
