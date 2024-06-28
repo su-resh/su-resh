@@ -15,28 +15,40 @@
 ### 📧 Reach me: [contact@sureshsubedi.info.np](mailto:contact@sureshsubedi.info.np)
 ### ⚡ Fun Fact: I thrive in last-minute challenges!
 
-## Professional Experience:
-- **Flutter Development Intern** at Thulo Technology
-  - Collaborated with a skilled team to build responsive and user-friendly mobile applications.
-  - Developed robust and scalable solutions using the Flutter framework.
-  - Implemented best practices in mobile app development.
-  - Quality Analysis, Testing, Bug reports, and feature requests.
-  - Practiced Continuous Integration and Continuous Deployment (CI/CD) to ensure smooth and automated releases.
+---
 
-## Open to Collaboration:
+## 🏆 Professional Experience:
+### **Flutter Development Intern** at Thulo Technology
+- 🚀 **Collaborated** with a skilled team to build responsive and user-friendly mobile applications.
+- 📱 **Developed** robust and scalable solutions using the Flutter framework.
+- 🛠️ **Implemented** best practices in mobile app development.
+- 🐞 **Quality Analysis, Testing, Bug Reports**, and feature requests.
+- 🔄 **Practiced CI/CD** to ensure smooth and automated releases.
+
+---
+
+## 🤝 Open to Collaboration:
 I'm eager to collaborate, whether contributing to open-source projects or exploring innovative ideas. Feel free to connect if you're interested in working together!
 
-## Career Goal:
+---
+
+## 🎯 Career Goal:
 My mission is to create impactful applications that not only solve problems but also elevate user experiences. I'm passionate about leveraging technology to make a positive difference.
 
-## Continuous Learning:
+---
+
+## 📖 Continuous Learning:
 Committed to expanding my skill set and staying abreast of the latest trends in mobile app development. Currently exploring Flutter and excited to apply it in upcoming projects.
 
+---
+
 ## 📚 Currently Working On:
-[Learn HTML Basic](https://github.com/su-resh/learn_html_basic)
-- Learn HTML basic is a mobile application where users can learn HTML, take quizzes, complete tests, and receive a certificate.
-- Designed for complete beginners with an easy-to-use interface.
-- Sections unlock sequentially as users complete the previous ones.
+### [Learn HTML Basic](https://github.com/su-resh/learn_html_basic)
+- 📘 **Learn HTML Basic** is a mobile application where users can learn HTML, take quizzes, complete tests, and receive a certificate.
+- 🎓 Designed for complete beginners with an easy-to-use interface.
+- 🔓 Sections unlock sequentially as users complete the previous ones.
+
+---
 
 <h1 align="center" style="font-size: 24px; color: #2f80ed;">Languages and Tools:</h1>
 <p align="center">
@@ -56,31 +68,37 @@ Committed to expanding my skill set and staying abreast of the latest trends in 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
-# Projects:
-## Flutter App:
+---
 
-- [Project 1: Weather App](https://github.com/su-resh/Know-weather)
-  - A weather app that uses API to fetch data from OpenWeather.
-- [Project 2: Guess the Flag](https://play.google.com/store/apps/details?id=com.thulotechnology.guesstheworldflag)
-  - A Flutter-based quiz game that enhances user learning. I contributed to testing and frontend development.
-- [Project 3: Color Blindness Test](https://play.google.com/store/apps/details?id=com.thulotechnology.colorblind&hl=en&gl=US)
-  - Color Blind Test is the go-to app for checking if you're color blind. It's like a colorful game where you uncover hidden numbers in different shades. Let’s see how many you get correct.
-- [Project 4: Tic Tac Toe](https://github.com/su-resh/tic-tac-toe)
-  - A general Tic Tac Toe game where users can play against each other.
-- [Project 5: Message Now](https://github.com/su-resh/msg_app)
-  - Minimal but the best realtime chat application with Firebase.
-- [Project 6: Army Training](https://github.com/su-resh/army_training)
-  - An army training app made during the internship at **Thulo Technology**.
-- [Project 7: Computer Basic Guide](https://play.google.com/store/apps/details?id=computerbasicguide.com)
-  - A comprehensive guide to basic computer skills, perfect for beginners and those looking to brush up on their knowledge.
+## 🌟 Projects:
 
-## Web Development:
-- [Project 1: Doctors Quiz](https://su-resh.github.io/pakistan-quiz/)
-  - A premium quiz app where users need to sign in to get access. Targeted for teaching MBBS students. **FrontEnd: HTML5, CSS, JS. Backend: Firebase**. Responsive UI along with the score showing button.
-- [Project 2: App Sansar](https://apps.sureshsubedi.info.np)
-  - A marketplace for the list of my flutter applications, where users can download and use them.
+### 📱 Flutter Apps:
 
-## Looking forward to connecting with like-minded individuals, learning, and crafting exceptional digital experiences together! 🚀
+- **[Weather App](https://github.com/su-resh/Know-weather)**
+  - 🌦️ A weather app that uses API to fetch data from OpenWeather.
+- **[Guess the Flag](https://play.google.com/store/apps/details?id=com.thulotechnology.guesstheworldflag)**
+  - 🏳️‍🌈 A Flutter-based quiz game that enhances user learning. I contributed to testing and frontend development.
+- **[Color Blindness Test](https://play.google.com/store/apps/details?id=com.thulotechnology.colorblind&hl=en&gl=US)**
+  - 🌈 Color Blind Test is the go-to app for checking if you're color blind. It's like a colorful game where you uncover hidden numbers in different shades. Let’s see how many you get correct.
+- **[Tic Tac Toe](https://github.com/su-resh/tic-tac-toe)**
+  - ✖️⭕ A general Tic Tac Toe game where users can play against each other.
+- **[Message Now](https://github.com/su-resh/msg_app)**
+  - 💬 Minimal but the best real-time chat application with Firebase.
+- **[Army Training](https://github.com/su-resh/army_training)**
+  - 🏋️ An army training app made during the internship at **Thulo Technology**.
+- **[Computer Basic Guide](https://play.google.com/store/apps/details?id=computerbasicguide.com)**
+  - 💻 A comprehensive guide to basic computer skills, perfect for beginners and those looking to brush up on their knowledge.
+
+### 🌐 Web Development:
+
+- **[Doctors Quiz](https://su-resh.github.io/pakistan-quiz/)**
+  - 🩺 A premium quiz app where users need to sign in to get access. Targeted for teaching MBBS students. **FrontEnd: HTML5, CSS, JS. Backend: Firebase**. Responsive UI along with the score showing button.
+- **[App Sansar](https://apps.sureshsubedi.info.np)**
+  - 🌍 A marketplace for the list of my flutter applications, where users can download and use them.
+
+---
+
+## 🤝 Looking forward to connecting with like-minded individuals, learning, and crafting exceptional digital experiences together! 🚀
 
 <h1 align="center" style="font-size: 24px; color: #2f80ed;">Connect with me:</h1>
 <p align="center">
