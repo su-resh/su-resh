@@ -74,20 +74,22 @@ Committed to expanding my skill set and staying abreast of the latest trends in 
 
 ### 📱 Flutter Apps:
 
-- **[Weather App](https://github.com/su-resh/Know-weather)**
-  - 🌦️ A weather app that uses API to fetch data from OpenWeather.
+- **[Computer Basic Guide](https://play.google.com/store/apps/details?id=computerbasicguide.com)**
+  - 💻 A comprehensive guide to basic computer skills, perfect for beginners and those looking to brush up on their knowledge.
 - **[Guess the Flag](https://play.google.com/store/apps/details?id=com.thulotechnology.guesstheworldflag)**
   - 🏳️‍🌈 A Flutter-based quiz game that enhances user learning. I contributed to testing and frontend development.
 - **[Color Blindness Test](https://play.google.com/store/apps/details?id=com.thulotechnology.colorblind&hl=en&gl=US)**
   - 🌈 Color Blind Test is the go-to app for checking if you're color blind. It's like a colorful game where you uncover hidden numbers in different shades. Let’s see how many you get correct.
-- **[Tic Tac Toe](https://github.com/su-resh/tic-tac-toe)**
-  - ✖️⭕ A general Tic Tac Toe game where users can play against each other.
 - **[Message Now](https://github.com/su-resh/msg_app)**
   - 💬 Minimal but the best real-time chat application with Firebase.
+- **[Image to Pdf](https://apps.sureshsubedi.info.np/apks/jpg_to_pdf.apk)**
+  - 📸 A simple interfaced application to convert the images into pdf.
+- **[Weather App](https://github.com/su-resh/Know-weather)**
+  - 🌦️ A weather app that uses API to fetch data from OpenWeather.
 - **[Army Training](https://github.com/su-resh/army_training)**
   - 🏋️ An army training app made during the internship at **Thulo Technology**.
-- **[Computer Basic Guide](https://play.google.com/store/apps/details?id=computerbasicguide.com)**
-  - 💻 A comprehensive guide to basic computer skills, perfect for beginners and those looking to brush up on their knowledge.
+- **[Tic Tac Toe](https://github.com/su-resh/tic-tac-toe)**
+  - ✖️⭕ A general Tic Tac Toe game where users can play against each other.
 
 ### 🌐 Web Development:
 
