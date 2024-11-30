@@ -18,13 +18,19 @@
 ---
 
 ## 🏆 Professional Experience:
-### **Flutter Development Intern** at Thulo Technology
+### **Mobile App Developer** at Thulo Technology
 - 🚀 **Collaborated** with a skilled team to build responsive and user-friendly mobile applications.
 - 📱 **Developed** robust and scalable solutions using the Flutter framework.
 - 🛠️ **Implemented** best practices in mobile app development.
-- 🐞 **Quality Analysis, Testing, Bug Reports**, and feature requests.
-- 🔄 **Practiced CI/CD** to ensure smooth and automated releases.
-
+- 🔄 **Practiced CI/CD** to ensure smooth and automated releases.‍‍‍‍‌‌‍‍‍‍‌‌
+---  
+### **Flutter Development Intern** at Thulo Technology
+- 🛠️ **Assisted in Development**: Worked on small app features and designs.  
+- 🐞 **Bug Fixing**: Found and fixed minor bugs.  
+- 🔍 **Testing**: Tested the app and reported issues.  
+- 📚 **Learned**: Explored new tools and coding practices.  
+- 📝 **Documentation**: Updated basic project docs.  
+- 🤝 **Collaborated**: Joined team discussions and shared ideas.  
 ---
 
 ## 🤝 Open to Collaboration:
@@ -43,8 +49,8 @@ Committed to expanding my skill set and staying abreast of the latest trends in 
 ---
 
 ## 📚 Currently Working On:
-### [Learn HTML Basic](https://github.com/su-resh/learn_html_basic)
-- 📘 **Learn HTML Basic** is a mobile application where users can learn HTML, take quizzes, complete tests, and receive a certificate.
+### Learn AI 
+- 📘 **Learn AI** is a mobile application where users can learn about AI and how to use AI for benifits.
 - 🎓 Designed for complete beginners with an easy-to-use interface.
 - 🔓 Sections unlock sequentially as users complete the previous ones.
 
