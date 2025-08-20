@@ -85,7 +85,7 @@ Committed to expanding my skill set and staying abreast of the latest trends in 
     <tr>
       <td align="center" width="300px">
         <a href="[https://play.google.com/store/apps/details?id=computerbasicguide.com](https://play.google.com/store/apps/details?id=com.be.notes&hl=en)">
-          <img src="https://img.shields.io/badge/💻 Computer Basic Guide-100K%2B%20Downloads-success?style=for-the-badge&logo=googleplay" alt="Computer Basic Guide"/>
+          <img src="https://img.shields.io/badge/📓Engineering Notes-50+%2B%20Downloads-success?style=for-the-badge&logo=googleplay" alt="Computer Basic Guide"/>
         </a>
         <p>
           A notes application with the community for the Pokhaara university affilated engineering students.<br>
